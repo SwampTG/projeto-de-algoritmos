@@ -2,11 +2,11 @@
 
 using namespace std;
 
-using ll = long long;
+using ll = long double;
 
 const string INF_MESSAGE = "INFINITY";
-const ll INF = 100000000; // Utilizando o quadrado da distância
-const ll END_INP = 0;
+const ll INF = 100000000.0; // Utilizando o quadrado da distância
+const ll END_INP = 0.0;
 const int N = 10005;
 
 using puu = pair<ll, ll>;
